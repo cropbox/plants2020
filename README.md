@@ -3,11 +3,11 @@ Conductance Models" published in the journal [Plants](https://www.mdpi.com/journ
 
 ## Docker
 ```
-docker run -it --rm -p 8888:8888 tomyun/cropbox-plants2020
+docker run -it --rm -p 8888:8888 cropbox/plants2020
 ```
 
 ## Binder
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tomyun/cropbox-plants2020/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cropbox/plants2020/master)
 
 ## HTML
-https://tomyun.github.io/cropbox-plants2020/
+https://cropbox.github.io/plants2020/
