@@ -1,4 +1,4 @@
-FROM tomyun/cropbox:v0.2.0
+FROM cropbox/cropbox:v0.2.0
 
 COPY . ${HOME}
 USER root
