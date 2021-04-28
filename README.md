@@ -1,3 +1,5 @@
+<a href="https://github.com/cropbox/Cropbox.jl"><img src="https://github.com/cropbox/Cropbox.jl/raw/main/docs/src/assets/logo.svg" alt="Cropbox" width="150"></a>
+
 This repository contains a notebook supplementary to the paper entitled "[Coupled Gas-exchange Model for C4 Leaves Comparing Stomatal
 Conductance Models](https://doi.org/10.3390/plants9101358)" published in the journal [Plants](https://www.mdpi.com/journal/plants). The notebook is made with [Cropbox](https://github.com/tomyun/Cropbox.jl) modeling framework.
 
